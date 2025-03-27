@@ -92,7 +92,7 @@ button {
 
 /* Body com tamanho dependendo do navegador e background */
 body {
-	background-image: url("../img/index/bg.png");
+	background-image: url("bg.png");
 	background-repeat: no-repeat;
 	background-position: center bottom;
 	background-size: cover;
