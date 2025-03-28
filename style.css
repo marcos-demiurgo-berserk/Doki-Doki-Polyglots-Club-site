@@ -130,7 +130,7 @@ body {
 }
 
 #description {
-	max-width: 35vw;
+	max-width: 70vw;
 	margin: 5vh auto;
 	padding: 20px;
 	border: 1px solid var(--secundary-color);
